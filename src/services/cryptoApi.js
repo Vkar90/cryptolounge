@@ -1,4 +1,4 @@
-import { createApi, fetchBaseQuery } from '@redux.js/toolkit/query';
+import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
 
 const cryptoApiHeaders={
     'x-rapidapi-host': 'coinranking1.p.rapidapi.com',
